@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web dev and C programming**
 
-- 👯 Language I know **Python, HTML,CSS,SQL**
+- 👯 Language/OS I know **Python, HTML,CSS,SQL,Linux**
 
 - 🤝 I'm learning **Javascript,Java ,C++,C,Rust**
 
