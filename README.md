@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [making my website](https://thesagespeak008.000webhostapp.com)
 
-- 🌱 I’m currently learning **Web dev and C programming**
+- 🌱 I’m currently learning **WEB DEV AND C PROGRAMMING**
 
-- 👯 Language/OS I know **Python, HTML,CSS,SQL,Linux**
+- 👯 Language/OS I know **PYTHON, HTML, CSS, SQL, Linux**
 
-- 🤝 I'm learning **Javascript,Java ,C++,C,Rust**
+- 🤝 I'm learning **JAVASCRIPT, JAVA, C++, C, Rust, GO**
 
 - 👨‍💻 All of my projects are available at [https://thesagespeak008.000webhostapp.com](https://thesagespeak008.000webhostapp.com)
 
