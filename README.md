@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **sagespeak008@cyberdude.com**
 
-- 📄 About myself [I'm Arnab Jyoyi Kakati, a passionate computer science engineering student with a relentless love for coding and development. I believe that the world of technology is a canvas, and programming is my way of painting it with innovative solutions.](I'm Arnab Jyoyi Kakati, a passionate computer science engineering student with a relentless love for coding and development. I believe that the world of technology is a canvas, and programming is my way of painting it with innovative solutions.)
+- 📄 About myself I'm Arnab Jyoyi Kakati, a passionate computer science engineering student with a relentless love for coding and development. I believe that the world of technology is a canvas, and programming is my way of painting it with innovative solutions.
 
 - ⚡ Fun fact **I like watching anime and create new stuff**
 
