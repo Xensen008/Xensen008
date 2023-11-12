@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [making my website](https://thesagespeak008.000webhostapp.com)
 
-- 🌱 I’m currently learning **WEB DEV AND C PROGRAMMING**
+- 🌱 I’m currently learning **WEB DEVELOPMENT AND C PROGRAMMING**
 
 - 👯 Language/OS I know **PYTHON, HTML, CSS, SQL, Linux**
 
