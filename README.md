@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://thesagespeak100.blogspot.com/](https://thesagespeak100.blogspot.com/)
 
-- 💬 Ask me about **Python, HTML, SQL**
+- 💬 Ask me about **PYTHON, HTML, SQL**
 
 - 📫 How to reach me **sagespeak008@cyberdude.com**
 
