@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/arnabjk008" target="blank"><img src="https://img.shields.io/twitter/follow/arnabjk008?logo=twitter&style=for-the-badge" alt="arnabjk008" /></a> </p>
 
-- 🔭 I’m currently working on [making my website](https://thesagespeak008.000webhostapp.com)
+- 🔭 I’m currently working on [making my Portfolio website](https://xensen008.free.nf)
+
+- 🔭 This is my [website](https://thesagespeak008.000webhostapp.com)
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT AND C PROGRAMMING**
 
