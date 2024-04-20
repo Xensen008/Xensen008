@@ -7,21 +7,21 @@
 
 <p align="left"> <a href="https://twitter.com/arnabjk008" target="blank"><img src="https://img.shields.io/twitter/follow/arnabjk008?logo=twitter&style=for-the-badge" alt="arnabjk008" /></a> </p>
 
-- 🔭 I’m currently working on [making my Portfolio website](https://xensen008.free.nf)
+- 🔭 I’m currently working on [making my Portfolio website](https://Journeyease.onrender.com)
 
-- 🔭 This is my [website](https://thesagespeak008.000webhostapp.com)
+- 🔭 This is my [website](https://xensen008.free.nf)
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT AND C PROGRAMMING**
 
-- 👯 Language/OS I know **PYTHON, HTML, CSS, SQL, Linux**
+- 👯 Language/OS I know **PYTHON, JAVASCRIPT, NODE.JS, EXPRESS.JS, MONGOdB, HTML-CSS, SQL, Linux**
 
-- 🤝 I'm learning **JAVASCRIPT, JAVA, C++, C, Rust, GO**
+- 🤝 I'm learning **REACT, JAVA, C++, C, Rust, GO**
 
-- 👨‍💻 All of my projects are available at [https://thesagespeak008.000webhostapp.com](https://thesagespeak008.000webhostapp.com)
+- 👨‍💻 All of my projects are available at [Gitub](https://github.com/xensen008)
 
 - 📝 I regularly write articles on [https://thesagespeak100.blogspot.com/](https://thesagespeak100.blogspot.com/)
 
-- 💬 Ask me about **PYTHON, HTML, SQL**
+- 💬 Let's talk about **PYTHON, HTML, SQL, MEN stack**
 
 - 📫 How to reach me **sagespeak008@cyberdude.com**
 
