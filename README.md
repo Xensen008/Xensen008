@@ -11,17 +11,17 @@
 
 - 🔭 This is my [website](https://xensen008.free.nf)
 
-- 🌱 I’m currently learning **WEB DEVELOPMENT AND C PROGRAMMING**
+- 🌱 I’m currently learning **FullStack web development**
 
-- 👯 Language/OS I know **PYTHON, JAVASCRIPT, NODE.JS, EXPRESS.JS, MONGOdB, HTML-CSS, SQL, Linux**
+- 👯 Language/OS I know **PYTHON, JAVASCRIPT, REACT.JS, NODE.JS, EXPRESS.JS, MONGOdB, HTML-CSS, SQL, Linux**
 
-- 🤝 I'm learning **REACT, JAVA, C++, C, Rust, GO**
+- 🤝 I'm learning **MERN and NEXT.JS**
 
 - 👨‍💻 All of my projects are available at [Gitub](https://github.com/xensen008)
 
 - 📝 I regularly write articles on [https://thesagespeak100.blogspot.com/](https://thesagespeak100.blogspot.com/)
 
-- 💬 Let's talk about **PYTHON, HTML, SQL, MEN stack**
+- 💬 Let's talk about **PYTHON, SQL, MERN stack**
 
 - 📫 How to reach me **sagespeak008@cyberdude.com**
 
