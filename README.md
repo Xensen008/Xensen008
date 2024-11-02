@@ -35,7 +35,7 @@
 <div align="center">
   <table border="0" cellspacing="1" cellpadding="2" align="center">
     <tr>
-      <td align="center" width="80%">
+      <td align="center" width="60%">
         <table border="0">
           <tr>
             <td>
@@ -64,7 +64,7 @@
           </tr>
         </table>
       </td>
-      <td align="center" width="20%">
+      <td align="center" width="40%">
         <img height="150" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding gif"/>
       </td>
     </tr>
