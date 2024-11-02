@@ -35,36 +35,36 @@
 <div align="center">
   <table border="0" cellspacing="1" cellpadding="2" align="center">
     <tr>
-      <td align="center" width="70%">
+      <td align="center" width="80%">
         <table border="0">
           <tr>
             <td>
-              <img width="20" src="https://em-content.zobj.net/source/skype/289/graduation-cap_1f393.png" /> Computer Science Engineering Student
+              <img width="30" src="https://em-content.zobj.net/source/skype/289/graduation-cap_1f393.png" /> Computer Science Engineering Student
             </td>
           </tr>
           <tr>
             <td>
-              <img width="20" src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist_1f468-200d-1f4bb.png" /> Passionate Full Stack Developer
+              <img width="30" src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist_1f468-200d-1f4bb.png" /> Passionate Full Stack Developer
             </td>
           </tr>
           <tr>
             <td>
-              <img width="20" src="https://em-content.zobj.net/source/skype/289/seedling_1f331.png" /> Currently mastering <b>Full Stack Web Development</b>
+              <img width="30" src="https://em-content.zobj.net/source/skype/289/seedling_1f331.png" /> Currently mastering <b>Full Stack Web Development</b>
             </td>
           </tr>
           <tr>
             <td>
-              <img width="20" src="https://em-content.zobj.net/source/microsoft-teams/363/writing-hand_270d-fe0f.png" /> Tech Blogger & Open Source Enthusiast
+              <img width="30" src="https://em-content.zobj.net/source/microsoft-teams/363/writing-hand_270d-fe0f.png" /> Tech Blogger & Open Source Enthusiast
             </td>
           </tr>
           <tr>
             <td>
-              <img width="20" src="https://em-content.zobj.net/source/skype/289/direct-hit_1f3af.png" /> Goal: Contributing to Innovative Tech Solutions
+              <img width="30" src="https://em-content.zobj.net/source/skype/289/direct-hit_1f3af.png" /> Goal: Contributing to Innovative Tech Solutions
             </td>
           </tr>
         </table>
       </td>
-      <td align="center" width="30%">
+      <td align="center" width="20%">
         <img height="150" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding gif"/>
       </td>
     </tr>
