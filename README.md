@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <table border="0" cellspacing="3"  align="center">
+  <table border="0" cellspacing="5"  align="center">
     <tr>
       <td align="center" width="60%">
         <table border="0">
