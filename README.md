@@ -32,11 +32,11 @@
   <h2>⚡ Quick Facts About Me</h2>
 </div>
 
-<div align="center">
-  <table border="0" cellspacing="5"  align="center">
+<div align="center" style="width: 80%;">
+  <table style="border: none; cellspacing: 5; width: 100%;">
     <tr>
-      <td align="center" width="60%">
-        <table border="0">
+      <td style="text-align: center; width: 60%;">
+        <table style="border: none;">
           <tr>
             <td>
               <img width="30" src="https://em-content.zobj.net/source/skype/289/graduation-cap_1f393.png" /> Computer Science Engineering Student
@@ -64,7 +64,7 @@
           </tr>
         </table>
       </td>
-      <td align="center" width="40%">
+      <td style="text-align: center; width: 40%;">
         <img height="150" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding gif"/>
       </td>
     </tr>
