@@ -32,66 +32,37 @@
   <h2>⚡ Quick Facts About Me</h2>
 </div>
 
-<div align="center" style="width: 80%;">
-  <table style="border: none; cellspacing: 5; width: 100%;">
-    <tr>
-      <td style="text-align: center; width: 60%;">
-        <table style="border: none;">
-          <tr>
-            <td>
-              <img width="30" src="https://em-content.zobj.net/source/skype/289/graduation-cap_1f393.png" /> Computer Science Engineering Student
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <img width="30" src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist_1f468-200d-1f4bb.png" /> Passionate Full Stack Developer
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <img width="30" src="https://em-content.zobj.net/source/skype/289/seedling_1f331.png" /> Currently mastering <b>Full Stack Web Development</b>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <img width="30" src="https://em-content.zobj.net/source/microsoft-teams/363/writing-hand_270d-fe0f.png" /> Tech Blogger & Open Source Enthusiast
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <img width="30" src="https://em-content.zobj.net/source/skype/289/direct-hit_1f3af.png" /> Goal: Contributing to Innovative Tech Solutions
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td style="text-align: center; width: 40%;">
-        <img height="150" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding gif"/>
-      </td>
-    </tr>
-  </table>
+<div align="left" style="max-width: 800px; margin: 0 auto; padding: 20px;">
+  <div style="display: flex; align-items: center; margin: 15px 0;">
+    <img width="25" src="https://em-content.zobj.net/source/skype/289/graduation-cap_1f393.png" alt="education"/>
+    <span style="margin-left: 12px;">Computer Science Engineering Student</span>
+  </div>
+
+  <div style="display: flex; align-items: center; margin: 15px 0;">
+    <img width="25" src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist_1f468-200d-1f4bb.png" alt="developer"/>
+    <span style="margin-left: 12px;">Passionate Full Stack Developer</span>
+  </div>
+
+  <div style="display: flex; align-items: center; margin: 15px 0;">
+    <img width="25" src="https://em-content.zobj.net/source/skype/289/seedling_1f331.png" alt="learning"/>
+    <span style="margin-left: 12px;">Currently mastering <b>Full Stack Web Development</b></span>
+  </div>
+
+  <div style="display: flex; align-items: center; margin: 15px 0;">
+    <img width="25" src="https://em-content.zobj.net/source/microsoft-teams/363/writing-hand_270d-fe0f.png" alt="writing"/>
+    <span style="margin-left: 12px;">Tech Blogger & Open Source Enthusiast</span>
+  </div>
+
+  <div style="display: flex; align-items: center; margin: 15px 0;">
+    <img width="25" src="https://em-content.zobj.net/source/skype/289/direct-hit_1f3af.png" alt="goal"/>
+    <span style="margin-left: 12px;">Goal: Contributing to Innovative Tech Solutions</span>
+  </div>
 </div>
 
-<div align="left">
-  <h3>🔗 Quick Links</h3>
-  
-  <a href="https://arnabjk008.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/xensen008">
-    <img src="https://img.shields.io/badge/Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://thesagespeak100.blogspot.com">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white" alt="Blog"/>
-  </a>
-  <a href="mailto:sagespeak008@cyberdude.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
-<div align="left">
-  <h3>💭 About Me</h3>
-  
-  <p>I'm Arnab Jyoti Kakati, a passionate developer who believes in the power of code to transform ideas into reality. With a strong foundation in computer science and an endless curiosity for new technologies, I'm constantly exploring and learning in the vast world of development.</p>
+<div align="center">
+  <p>
+    <i>💡 I believe in the power of code to transform ideas into reality. With a strong foundation in computer science and an endless curiosity for new technologies, I'm constantly exploring and learning in the vast world of development.</i>
+  </p>
 </div>
 
 <!-- connection -->
@@ -142,17 +113,28 @@
       <td align="center" width="400">
         <h3>🎨 Frontend Development</h3>
         <div>
-          <img src="https://skillicons.dev/icons?i=html,css,js,ts" /><br/>
-          <img src="https://skillicons.dev/icons?i=react,redux,next" /><br/>
-          <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/><br/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="30" height="30"/><br/>
+          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
         </div>
       </td>
       <td align="center" width="400">
         <h3>⚙️ Backend Development</h3>
         <div>
-          <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" /><br/>
-          <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" /><br/>
-          <img src="https://skillicons.dev/icons?i=firebase,supabase" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+          <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/><br/>  
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
+          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
         </div>
       </td>
     </tr>
@@ -160,17 +142,20 @@
       <td align="center">
         <h3>🛠️ DevOps & Tools</h3>
         <div>
-          <img src="https://skillicons.dev/icons?i=git,github,docker" /><br/>
-          <img src="https://skillicons.dev/icons?i=linux,bash,nginx" /><br/>
-          <img src="https://skillicons.dev/icons?i=vscode,postman" />
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
+          <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/><br/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
+          <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/>
         </div>
       </td>
       <td align="center">
         <h3>📱 App Development</h3>
         <div>
-          <img src="https://skillicons.dev/icons?i=react,flutter,electron" /><br/>
-          <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" /><br/>
-          <img src="https://skillicons.dev/icons?i=swift,xcode" />
+          <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/>
+          <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/>
+          <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/>
         </div>
       </td>
     </tr>
@@ -178,8 +163,9 @@
       <td align="center" colspan="2">
         <h3>🔧 Languages & Frameworks</h3>
         <div>
-          <img src="https://skillicons.dev/icons?i=c,cpp,python,java" /><br/>
-          <img src="https://skillicons.dev/icons?i=go,rust,ruby,php" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
         </div>
       </td>
     </tr>
