@@ -11,14 +11,6 @@
   <br/>
   
   <div>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=xensen008&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
-    </a>
-  </div>
-
-  <br/>
-  
-  <div>
     <a href="https://twitter.com/arnabjk008">
       <img src="https://img.shields.io/twitter/follow/arnabjk008?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=000000" alt="Twitter Follow"/>
     </a>
@@ -106,95 +98,9 @@
 
 <!-- techstack -->
 
-## 🛠️ Tech Stack
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="400">
-        <h3>🎨 Frontend Development</h3>
-        <div>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/><br/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="30" height="30"/><br/>
-          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="30" height="30"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
-        </div>
-      </td>
-      <td align="center" width="400">
-        <h3>⚙️ Backend Development</h3>
-        <div>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-          <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/><br/>  
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
-          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>🛠️ DevOps & Tools</h3>
-        <div>
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
-          <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/><br/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
-          <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/>
-        </div>
-      </td>
-      <td align="center">
-        <h3>📱 App Development</h3>
-        <div>
-          <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/>
-          <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/>
-          <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <h3>🔧 Languages & Frameworks</h3>
-        <div>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-  
-  <div>
-    <h3>🌟 Expertise Level</h3>
-    <table>
-      <tr>
-        <td>🔥 Expert</td>
-        <td>Python, JavaScript, React, Node.js, MongoDB</td>
-      </tr>
-      <tr>
-        <td>⭐ Advanced</td>
-        <td>TypeScript, Express, MySQL, Git, Linux</td>
-      </tr>
-      <tr>
-        <td>📚 Intermediate</td>
-        <td>Docker, Django, PostgreSQL, Next.js</td>
-      </tr>
-    </table>
-  </div>
-</div>
-
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=xensen008&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xensen008&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xensen008&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />-->
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xensen008&" alt="xensen008" /></p>
 </div>
