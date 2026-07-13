@@ -8,77 +8,14 @@
     <img src="https://komarev.com/ghpvc/?username=xensen008&style=for-the-badge&color=0e75b6" />
   </div>
 
-  <br/>
-  
-  <div>
-    <a href="https://twitter.com/arnabjk008">
-      <img src="https://img.shields.io/twitter/follow/arnabjk008?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=000000" alt="Twitter Follow"/>
-    </a>
-    <img src="https://img.shields.io/github/followers/xensen008?logo=github&style=for-the-badge&color=181717&labelColor=000000" alt="GitHub followers"/>
-  </div>
-</div>
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubwallpaper.com/api/card/hm32fbmxxg2fhf23dxhsv5cz?theme=dark&v=022cf077216b">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubwallpaper.com/api/card/hm32fbmxxg2fhf23dxhsv5cz?theme=light&v=022cf077216b">
+  <img alt="GitHub profile card" src="https://githubwallpaper.com/api/card/hm32fbmxxg2fhf23dxhsv5cz?theme=dark&v=022cf077216b">
+</picture>
+<!-- GITHUBWALLPAPER:END -->
 
-
-<!-- About Me Section -->
-<div align="center">
-  <h2>⚡ Quick Facts About Me</h2>
-</div>
-
-<div align="left" style="max-width: 800px; margin: 0 auto; padding: 20px;">
-  <div style="display: flex; align-items: center; margin: 15px 0;">
-    <img width="25" src="https://em-content.zobj.net/source/skype/289/graduation-cap_1f393.png" alt="education"/>
-    <span style="margin-left: 12px;">Computer Science Engineering Student</span>
-  </div>
-
-  <div style="display: flex; align-items: center; margin: 15px 0;">
-    <img width="25" src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist_1f468-200d-1f4bb.png" alt="developer"/>
-    <span style="margin-left: 12px;">Passionate Full Stack Developer</span>
-  </div>
-
-  <div style="display: flex; align-items: center; margin: 15px 0;">
-    <img width="25" src="https://em-content.zobj.net/source/skype/289/seedling_1f331.png" alt="learning"/>
-    <span style="margin-left: 12px;">Currently mastering <b>Full Stack Web Development</b></span>
-  </div>
-
-  <div style="display: flex; align-items: center; margin: 15px 0;">
-    <img width="25" src="https://em-content.zobj.net/source/microsoft-teams/363/writing-hand_270d-fe0f.png" alt="writing"/>
-    <span style="margin-left: 12px;">Tech Blogger & Open Source Enthusiast</span>
-  </div>
-
-  <div style="display: flex; align-items: center; margin: 15px 0;">
-    <img width="25" src="https://em-content.zobj.net/source/skype/289/direct-hit_1f3af.png" alt="goal"/>
-    <span style="margin-left: 12px;">Goal: Contributing to Innovative Tech Solutions</span>
-  </div>
-</div>
-
-<div align="center">
-  <p>
-    <i>💡 I believe in the power of code to transform ideas into reality. With a strong foundation in computer science and an endless curiosity for new technologies, I'm constantly exploring and learning in the vast world of development.</i>
-  </p>
-</div>
-
-<!-- connection -->
-<h2 align="center">🌐 Connect With Me</h2>
-<div align="center">
-  <a href="https://twitter.com/arnabjk008" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/arnabjk008" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="https://instagram.com/_arnab.jk_008" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-  </a>
-  <a href="https://discord.gg/gXdFFkQYPq" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
-  </a>
-  <a href="https://www.hackerearth.com/arnabjyotikakat1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="hackerearth"/>
-  </a>
-  <a href="mailto:sagespeak008@cyberdude.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
-  </a>
-</div>
 
 
 <picture>
@@ -109,10 +46,3 @@
 
 
 
-<!-- GITHUBWALLPAPER:START -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubwallpaper.com/api/card/hm32fbmxxg2fhf23dxhsv5cz?theme=dark&v=022cf077216b">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubwallpaper.com/api/card/hm32fbmxxg2fhf23dxhsv5cz?theme=light&v=022cf077216b">
-  <img alt="GitHub profile card" src="https://githubwallpaper.com/api/card/hm32fbmxxg2fhf23dxhsv5cz?theme=dark&v=022cf077216b">
-</picture>
-<!-- GITHUBWALLPAPER:END -->
