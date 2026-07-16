@@ -10,9 +10,9 @@
 
 <!-- GITHUBWALLPAPER:START -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubwallpaper.com/api/card/hm32fbmxxg2fhf23dxhsv5cz?theme=dark&v=1784192951281">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubwallpaper.com/api/card/hm32fbmxxg2fhf23dxhsv5cz?theme=light&v=1784192951281">
-  <img alt="GitHub profile card" src="https://githubwallpaper.com/api/card/hm32fbmxxg2fhf23dxhsv5cz?theme=dark&v=1784192951281">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/hm32fbmxxg2fhf23dxhsv5cz-dark.svg?v=1784193733942">
+  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/hm32fbmxxg2fhf23dxhsv5cz-light.svg?v=1784193733942">
+  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/hm32fbmxxg2fhf23dxhsv5cz-dark.svg?v=1784193733942">
 </picture>
 <p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
 <!-- GITHUBWALLPAPER:END -->
